@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="action_export_database">Export DataBase Root SD</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="enter_location_name">Enter Location Name</string>
+    <string name="add_to_list">Add To List</string>
+    <string name="add_new">Added new location</string>
+    <string name="hint_enabled_gps">(Couldn\'t get the location. Make sure location is enabled on the device)</string>
+    <string name="btn_stop_location_updates">Stop update location</string>
+    <string name="btn_start_location_updates">Start update location</string>
+    <string name="dateTimeFormat">dd-MMM-yyyy-hh-mm-ss</string>
+    <string name="export_prompt">Export DataBase to %s</string>
+</resources>
