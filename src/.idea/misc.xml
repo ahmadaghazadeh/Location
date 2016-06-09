@@ -2,9 +2,6 @@
 <project version="4">
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="butterknife.OnClick" />
-    </list>
   </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
@@ -38,10 +35,34 @@
             <id />
           </State>
           <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
             <id>Encapsulation issuesJava</id>
           </State>
           <State>
+            <id>Gradle</id>
+          </State>
+          <State>
             <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
           </State>
         </expanded-state>
         <selected-state>

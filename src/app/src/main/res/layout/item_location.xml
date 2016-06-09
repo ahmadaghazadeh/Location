@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.CardView
-    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+<android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/tools"
     android:id="@+id/card_view"
     android:layout_gravity="center"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    app:cardPreventCornerOverlap="false"
-    app:cardUseCompatPadding="true"
+    card_view:cardPreventCornerOverlap="false"
+    card_view:cardUseCompatPadding="true"
     android:layout_margin="10dp"
     card_view:cardCornerRadius="4dp">
 
